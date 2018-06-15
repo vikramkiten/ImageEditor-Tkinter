@@ -1,0 +1,14 @@
+.idea/
+.vscode/
+tcl
+scripts
+PIL
+Lib
+Intense
+Include
+Images
+main.jpg
+Bfiles
+MainApp.py
+bg.py
+demo.py
